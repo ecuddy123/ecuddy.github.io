@@ -119,7 +119,7 @@
       border-bottom-right-radius: $border-radius;
     }
   }
-}
+
 
   /* next/previous buttons */
   &--pager {
@@ -157,7 +157,7 @@
       cursor: not-allowed;
     }
   }
-
+}
 
 .page__content + .pagination,
 .page__meta + .pagination,
