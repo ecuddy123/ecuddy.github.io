@@ -11,9 +11,9 @@ title                    : "Emily Cuddy"
 title_separator          : "-"
 name                     : &name "Emily Cuddy"
 description              : &description "personal description"
-url                      : https://ecuddy123.github.io/ecuddy.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ecuddy123.github.io/ecuddy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ecuddy123/ecuddy.github.io/"
+repository               : "ecuddy123/ecuddy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
