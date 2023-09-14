@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Emily Cuddy"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Emily Cuddy"
 description              : &description "personal description"
